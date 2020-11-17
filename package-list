@@ -1,0 +1,15 @@
+com.experta.smartdriveapp
+com.experta.smartdriveapp.activities
+com.experta.smartdriveapp.adapters
+com.experta.smartdriveapp.broadcasters
+com.experta.smartdriveapp.domain
+com.experta.smartdriveapp.infraestructure.http
+com.experta.smartdriveapp.repositories
+com.experta.smartdriveapp.repositories.inmemory
+com.experta.smartdriveapp.repositories.sqlite
+com.experta.smartdriveapp.sensors
+com.experta.smartdriveapp.sensors.accelerometer
+com.experta.smartdriveapp.sensors.gyroscope
+com.experta.smartdriveapp.services
+com.experta.smartdriveapp.services.sync
+com.experta.smartdriveapp.workers
